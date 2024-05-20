@@ -1,2 +1,2 @@
-# GitHub1
+# Initial commit
 Practica 15
